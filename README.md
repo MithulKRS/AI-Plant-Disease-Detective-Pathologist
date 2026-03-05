@@ -78,8 +78,8 @@ Step 4: Access the App
 Open your browser and go to: http://localhost
 
 <h2>Author</h2>
-*Mithul Krishna*<br>
-*2nd Year B.Tech CSE*<br>
-*NIT Bhopal*<br>
+Mithul Krishna<br>
+2nd Year B.Tech CSE<br>
+NIT Bhopal<br>
 
 
