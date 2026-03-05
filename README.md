@@ -77,4 +77,9 @@ docker run -p 80:80 plant-disease-detection-image:v1.0
 Step 4: Access the App
 Open your browser and go to: http://localhost
 
+<h2>Author</h2>
+Mithul Krishna
+2nd Year B.Tech CSE
+NIT Bhopal
+
 
